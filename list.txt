@@ -927,6 +927,7 @@
 ||echo.win^$all,document
 ||aigirlfriend.wtf^$all,document
 ||ai.google^$all,document
+||gemini.google^$all,document
 ||olafjeziorski.pl^$all,document
 ||otasarimciol.shop^$all,document
 ||pinokio.computer^$all,document
