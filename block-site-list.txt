@@ -20,6 +20,9 @@
 ! // DDG & Bing version
 ! //// Sites hosting nothing but AI generated content/solely focused on AI/has an abundance of AI generated imagery... 100% confirmed
 
+! Personal Contributions:
+||gemini.google.com^$doc
+
 ! Sites that have .ai domain extension
 ||forkful.ai^$doc
 ||otter.ai^$doc
