@@ -22,6 +22,7 @@
 
 ! Personal Contributions:
 ||gemini.google.com^$doc
+||grok.com^$doc
 
 ! Sites that have .ai domain extension
 ||forkful.ai^$doc
